@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         gold = (EditText)findViewById(R.id.gold);
         tax = (EditText)findViewById(R.id.tax);
         borrow = (EditText)findViewById(R.id.borrow);
-        btn=findViewById(R.id.done);
+        btn=findViewById(R.id.ok);
         zakatpayable = findViewById(R.id.result);
     }
     public void onClick(View v)
