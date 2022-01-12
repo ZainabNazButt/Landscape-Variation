@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
     EditText cash, loan, silver, gold, tax, borrow;
     TextView zakatpayable;
-    Button btn;
+    Button btn,btn6;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
